@@ -22,7 +22,7 @@ const userRouter=require("./routes/user.js");
 
 
 // const dbUrl=process.env.ATLASDB_URL;
-const dbUrl = process.env.ATLASDB_URL || 'mongodb+srv://kishangupta4514:MyVpkHiL4ZF8Oe46@cluster0.oyugocm.mongodb.net/?retryWrites=true&w=majority';
+const dbUrl = process.env.ATLASDB_URL || 'mongodb+srv://kishangupta4514:34lG5zi8xe8vovTs@cluster0.oyugocm.mongodb.net/?retryWrites=true&w=majority';
 
 
 main()
